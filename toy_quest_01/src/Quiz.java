@@ -1,4 +1,4 @@
-import dto.QuestionDto;
+import dto.ProblemDto;
 
 import java.util.HashMap;
 import java.util.List;
@@ -10,25 +10,25 @@ public class Quiz {
     private final Data data;
 
     Scanner scanner = new Scanner(System.in);
-    int score = 0;
     Map<Integer, Integer> solveAnswers = new HashMap<>();
+    int score = 0;
 
     public Quiz(Data data) {
         this.data = data;
     }
 
     public void run() {
-        data.questions.forEach((id, questionDto) -> {
-            solveQuestion(id, questionDto);
+        data.questions.forEach((id, problemDto) -> {
+            solveQuestion(id, problemDto);
         });
 
         printResult(getGrade());
     }
 
-    private void solveQuestion(int id, QuestionDto questionDto) {
-        List<String> options = questionDto.getOptions();
+    private void solveQuestion(int id, ProblemDto problemDto) {
+        List<String> options = problemDto.getOptions();
 
-        System.out.printf("%d. %s (점수 : %d점)\n", id, questionDto.getQuestion(), questionDto.getScore());
+        System.out.printf("%d. %s (점수 : %d점)\n", id, problemDto.getProblem(), problemDto.getScore());
 
         for (int i = 0; i < options.size(); i++) {
             System.out.printf("%d) %s ", i+1, options.get(i));

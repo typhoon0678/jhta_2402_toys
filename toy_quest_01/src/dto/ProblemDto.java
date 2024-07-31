@@ -2,22 +2,22 @@ package dto;
 
 import java.util.List;
 
-public class QuestionDto {
+public class ProblemDto {
 
-    private final String question;
+    private final String problem;
     private final List<String> options;
     private final String answer;
     private final int score;
 
-    public QuestionDto(String question, List<String> options, String answer, int score) {
-        this.question = question;
+    public ProblemDto(String problem, List<String> options, String answer, int score) {
+        this.problem = problem;
         this.options = options;
         this.answer = answer;
         this.score = score;
     }
 
-    public String getQuestion() {
-        return question;
+    public String getProblem() {
+        return problem;
     }
 
     public List<String> getOptions() {
