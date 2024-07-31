@@ -25,7 +25,8 @@ public class Quiz {
         printResult(getGrade());
     }
 
-    private void solveQuestion(int id, ProblemDto problemDto) {
+    private void solveQuestion(int id, ProblemDto problemDto)
+            throws NumberFormatException, ArrayIndexOutOfBoundsException {
         List<String> options = problemDto.getOptions();
 
         System.out.printf("%d. %s (점수 : %d점)\n", id, problemDto.getProblem(), problemDto.getScore());
@@ -37,6 +38,10 @@ public class Quiz {
 
         int answer = Integer.parseInt(scanner.nextLine());
         solveAnswers.put(id, answer - 1);
+
+        if (answer < 0 || answer > 4) {
+            throw new ArrayIndexOutOfBoundsException();
+        }
     }
 
     private void printResult(String grade) {
