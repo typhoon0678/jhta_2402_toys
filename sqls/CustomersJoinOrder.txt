@@ -1,0 +1,75 @@
+customername	orderCount
+Ana Trujillo Emparedados y helados 	1 
+Antonio Moreno Taquería 	1 
+Around the Horn 	2 
+Berglunds snabbköp 	3 
+Blondel père et fils 	4 
+Bólido Comidas preparadas 	1 
+Bon app' 	3 
+Bottom-Dollar Marketse 	4 
+B's Beverages 	1 
+Centro comercial Moctezuma 	1 
+Chop-suey Chinese 	2 
+Comércio Mineiro 	1 
+Consolidated Holdings 	1 
+Die Wandernde Kuh 	4 
+Drachenblut Delikatessend 	2 
+Du monde entier 	1 
+Eastern Connection 	2 
+Ernst Handel 	10 
+Familia Arquibaldo 	3 
+Folies gourmandes 	1 
+Folk och fä HB 	4 
+Franchi S.p.A. 	1 
+Frankenversand 	4 
+Furia Bacalhau e Frutos do Mar 	2 
+Galería del gastrónomo 	2 
+Godos Cocina Típica 	1 
+Gourmet Lanchonetes 	1 
+GROSELLA-Restaurante 	1 
+Hanari Carnes 	2 
+HILARIÓN-Abastos 	2 
+Hungry Coyote Import Store 	3 
+Hungry Owl All-Night Grocers 	6 
+Island Trading 	3 
+Königlich Essen 	2 
+La maison d'Asie 	5 
+Lehmanns Marktstand 	3 
+LILA-Supermercado 	5 
+LINO-Delicateses 	1 
+Lonesome Pine Restaurant 	2 
+Magazzini Alimentari Riuniti 	3 
+Mère Paillarde 	5 
+Morgenstern Gesundkost 	1 
+Océano Atlántico Ltda. 	1 
+Old World Delicatessen 	4 
+Ottilies Käseladen 	1 
+Pericles Comidas clásicas 	2 
+Piccolo und mehr 	3 
+Princesa Isabel Vinhoss 	3 
+Que Delícia 	4 
+Queen Cozinha 	2 
+QUICK-Stop 	7 
+Rattlesnake Canyon Grocery 	7 
+Reggiani Caseifici 	3 
+Ricardo Adocicados 	2 
+Richter Supermarkt 	2 
+Romero y tomillo 	3 
+Santé Gourmet 	1 
+Save-a-lot Markets 	4 
+Seven Seas Imports 	3 
+Simons bistro 	2 
+Split Rail Beer & Ale 	6 
+Suprêmes délices 	2 
+The Big Cheese 	1 
+Toms Spezialitäten 	1 
+Tortuga Restaurante 	4 
+Tradição Hipermercados 	2 
+Vaffeljernet 	2 
+Victuailles en stock 	2 
+Vins et alcools Chevalier 	2 
+Wartian Herkku 	7 
+Wellington Importadora 	2 
+White Clover Markets 	2 
+Wilman Kala 	1 
+Wolski 	1 

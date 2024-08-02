@@ -1,0 +1,519 @@
+productname	price	quantity	CustomerName
+Chais 	18 	24 	La maison d'Asie 
+Chais 	18 	10 	Queen Cozinha 
+Chais 	18 	15 	Chop-suey Chinese 
+Chais 	18 	12 	Pericles Comidas clásicas 
+Chais 	18 	15 	Die Wandernde Kuh 
+Chais 	18 	45 	QUICK-Stop 
+Chais 	18 	18 	Rattlesnake Canyon Grocery 
+Chais 	18 	20 	Lonesome Pine Restaurant 
+Chang 	19 	25 	Folk och fä HB 
+Chang 	19 	25 	Save-a-lot Markets 
+Chang 	19 	10 	Consolidated Holdings 
+Chang 	19 	24 	Frankenversand 
+Chang 	19 	60 	QUICK-Stop 
+Chang 	19 	7 	Hungry Owl All-Night Grocers 
+Chang 	19 	35 	Folk och fä HB 
+Chang 	19 	20 	Richter Supermarkt 
+Chang 	19 	50 	Ernst Handel 
+Chang 	19 	40 	Hungry Owl All-Night Grocers 
+Chang 	19 	45 	Save-a-lot Markets 
+Aniseed Syrup 	10 	50 	LINO-Delicateses 
+Aniseed Syrup 	10 	30 	B's Beverages 
+Chef Anton's Cajun Seasoning 	22 	10 	Mère Paillarde 
+Chef Anton's Cajun Seasoning 	22 	18 	Princesa Isabel Vinhoss 
+Chef Anton's Cajun Seasoning 	22 	24 	Bólido Comidas preparadas 
+Chef Anton's Cajun Seasoning 	22 	35 	White Clover Markets 
+Chef Anton's Cajun Seasoning 	22 	20 	Hungry Owl All-Night Grocers 
+Chef Anton's Gumbo Mix 	21.35 	20 	Comércio Mineiro 
+Chef Anton's Gumbo Mix 	21.35 	12 	Rattlesnake Canyon Grocery 
+Chef Anton's Gumbo Mix 	21.35 	32 	Ernst Handel 
+Chef Anton's Gumbo Mix 	21.35 	65 	Ernst Handel 
+Grandma's Boysenberry Spread 	25 	30 	Hungry Owl All-Night Grocers 
+Grandma's Boysenberry Spread 	25 	6 	Königlich Essen 
+Uncle Bob's Organic Dried Pears 	30 	15 	Rattlesnake Canyon Grocery 
+Uncle Bob's Organic Dried Pears 	30 	10 	Split Rail Beer & Ale 
+Northwoods Cranberry Sauce 	40 	70 	White Clover Markets 
+Northwoods Cranberry Sauce 	40 	70 	QUICK-Stop 
+Mishi Kobe Niku 	97 	20 	Wellington Importadora 
+Ikura 	31 	30 	LILA-Supermercado 
+Ikura 	31 	16 	Bottom-Dollar Marketse 
+Ikura 	31 	24 	QUICK-Stop 
+Ikura 	31 	15 	Tortuga Restaurante 
+Queso Cabrales 	21 	24 	Antonio Moreno Taquería 
+Queso Cabrales 	21 	50 	Folk och fä HB 
+Queso Cabrales 	21 	30 	Ernst Handel 
+Queso Cabrales 	21 	12 	Wilman Kala 
+Queso Cabrales 	21 	12 	LILA-Supermercado 
+Queso Cabrales 	21 	6 	Reggiani Caseifici 
+Queso Cabrales 	21 	6 	Folk och fä HB 
+Queso Cabrales 	21 	12 	Piccolo und mehr 
+Queso Cabrales 	21 	30 	Ottilies Käseladen 
+Queso Manchego La Pastora 	38 	12 	Wartian Herkku 
+Queso Manchego La Pastora 	38 	15 	Mère Paillarde 
+Konbu 	6 	18 	Drachenblut Delikatessend 
+Konbu 	6 	10 	Tortuga Restaurante 
+Konbu 	6 	20 	Around the Horn 
+Konbu 	6 	12 	Königlich Essen 
+Konbu 	6 	20 	Que Delícia 
+Konbu 	6 	10 	Hungry Coyote Import Store 
+Konbu 	6 	2 	Wellington Importadora 
+Tofu 	23.25 	9 	Königlich Essen 
+Tofu 	23.25 	15 	Hungry Coyote Import Store 
+Tofu 	23.25 	35 	Piccolo und mehr 
+Tofu 	23.25 	42 	Save-a-lot Markets 
+Tofu 	23.25 	9 	Tradição Hipermercados 
+Tofu 	23.25 	12 	Océano Atlántico Ltda. 
+Tofu 	23.25 	20 	Wartian Herkku 
+Tofu 	23.25 	10 	Wartian Herkku 
+Genen Shouyu 	15.5 	20 	LILA-Supermercado 
+Genen Shouyu 	15.5 	5 	Königlich Essen 
+Pavlova 	17.45 	56 	Seven Seas Imports 
+Pavlova 	17.45 	16 	Mère Paillarde 
+Pavlova 	17.45 	30 	LILA-Supermercado 
+Pavlova 	17.45 	35 	Richter Supermarkt 
+Pavlova 	17.45 	10 	The Big Cheese 
+Pavlova 	17.45 	49 	Save-a-lot Markets 
+Pavlova 	17.45 	21 	Save-a-lot Markets 
+Pavlova 	17.45 	40 	Ricardo Adocicados 
+Pavlova 	17.45 	21 	Ernst Handel 
+Pavlova 	17.45 	60 	Ernst Handel 
+Alice Mutton 	39 	15 	Rattlesnake Canyon Grocery 
+Alice Mutton 	39 	36 	Rattlesnake Canyon Grocery 
+Alice Mutton 	39 	20 	Old World Delicatessen 
+Alice Mutton 	39 	40 	Suprêmes délices 
+Alice Mutton 	39 	70 	Mère Paillarde 
+Alice Mutton 	39 	15 	Lehmanns Marktstand 
+Alice Mutton 	39 	2 	Hungry Coyote Import Store 
+Alice Mutton 	39 	8 	Tortuga Restaurante 
+Alice Mutton 	39 	30 	Blondel père et fils 
+Alice Mutton 	39 	50 	Bottom-Dollar Marketse 
+Alice Mutton 	39 	45 	Ernst Handel 
+Carnarvon Tigers 	62.5 	12 	Tortuga Restaurante 
+Carnarvon Tigers 	62.5 	20 	Bon app' 
+Carnarvon Tigers 	62.5 	25 	Old World Delicatessen 
+Carnarvon Tigers 	62.5 	40 	Mère Paillarde 
+Carnarvon Tigers 	62.5 	9 	Ernst Handel 
+Teatime Chocolate Biscuits 	9.2 	80 	QUICK-Stop 
+Teatime Chocolate Biscuits 	9.2 	18 	LILA-Supermercado 
+Teatime Chocolate Biscuits 	9.2 	15 	Toms Spezialitäten 
+Teatime Chocolate Biscuits 	9.2 	10 	Split Rail Beer & Ale 
+Teatime Chocolate Biscuits 	9.2 	15 	Ricardo Adocicados 
+Teatime Chocolate Biscuits 	9.2 	18 	Familia Arquibaldo 
+Teatime Chocolate Biscuits 	9.2 	4 	Que Delícia 
+Teatime Chocolate Biscuits 	9.2 	20 	Wartian Herkku 
+Teatime Chocolate Biscuits 	9.2 	1 	Romero y tomillo 
+Sir Rodney's Marmalade 	81 	12 	Queen Cozinha 
+Sir Rodney's Marmalade 	81 	28 	Berglunds snabbköp 
+Sir Rodney's Marmalade 	81 	6 	Rattlesnake Canyon Grocery 
+Sir Rodney's Marmalade 	81 	40 	Suprêmes délices 
+Sir Rodney's Marmalade 	81 	20 	Tradição Hipermercados 
+Sir Rodney's Scones 	10 	20 	Que Delícia 
+Sir Rodney's Scones 	10 	10 	Centro comercial Moctezuma 
+Sir Rodney's Scones 	10 	10 	Wartian Herkku 
+Sir Rodney's Scones 	10 	12 	Océano Atlántico Ltda. 
+Sir Rodney's Scones 	10 	10 	Princesa Isabel Vinhoss 
+Sir Rodney's Scones 	10 	50 	Ernst Handel 
+Sir Rodney's Scones 	10 	5 	Ernst Handel 
+Sir Rodney's Scones 	10 	30 	Queen Cozinha 
+Gustaf's Knäckebröd 	21 	12 	Consolidated Holdings 
+Gustaf's Knäckebröd 	21 	6 	Victuailles en stock 
+Tunnbröd 	9 	60 	Ernst Handel 
+Tunnbröd 	9 	40 	Frankenversand 
+Tunnbröd 	9 	25 	Die Wandernde Kuh 
+Tunnbröd 	9 	40 	Frankenversand 
+Guaraná Fantástica 	4.5 	15 	Santé Gourmet 
+Guaraná Fantástica 	4.5 	15 	Familia Arquibaldo 
+Guaraná Fantástica 	4.5 	10 	La maison d'Asie 
+Guaraná Fantástica 	4.5 	6 	Romero y tomillo 
+Guaraná Fantástica 	4.5 	28 	Ernst Handel 
+Guaraná Fantástica 	4.5 	10 	Tortuga Restaurante 
+Guaraná Fantástica 	4.5 	25 	Around the Horn 
+Guaraná Fantástica 	4.5 	10 	Furia Bacalhau e Frutos do Mar 
+Guaraná Fantástica 	4.5 	12 	Magazzini Alimentari Riuniti 
+Guaraná Fantástica 	4.5 	15 	Chop-suey Chinese 
+Guaraná Fantástica 	4.5 	12 	Berglunds snabbköp 
+NuNuCa Nuß-Nougat-Creme 	14 	50 	Bon app' 
+NuNuCa Nuß-Nougat-Creme 	14 	7 	Save-a-lot Markets 
+NuNuCa Nuß-Nougat-Creme 	14 	10 	Familia Arquibaldo 
+NuNuCa Nuß-Nougat-Creme 	14 	4 	Königlich Essen 
+Gumbär Gummibärchen 	31.23 	2 	Franchi S.p.A. 
+Gumbär Gummibärchen 	31.23 	50 	LILA-Supermercado 
+Gumbär Gummibärchen 	31.23 	10 	Split Rail Beer & Ale 
+Gumbär Gummibärchen 	31.23 	24 	Frankenversand 
+Gumbär Gummibärchen 	31.23 	30 	Que Delícia 
+Gumbär Gummibärchen 	31.23 	16 	LILA-Supermercado 
+Gumbär Gummibärchen 	31.23 	30 	Magazzini Alimentari Riuniti 
+Gumbär Gummibärchen 	31.23 	70 	Save-a-lot Markets 
+Schoggi Schokolade 	43.9 	25 	HILARIÓN-Abastos 
+Schoggi Schokolade 	43.9 	50 	Old World Delicatessen 
+Schoggi Schokolade 	43.9 	15 	Lehmanns Marktstand 
+Rössle Sauerkraut 	45.6 	20 	Morgenstern Gesundkost 
+Rössle Sauerkraut 	45.6 	20 	Seven Seas Imports 
+Rössle Sauerkraut 	45.6 	4 	Die Wandernde Kuh 
+Rössle Sauerkraut 	45.6 	28 	Suprêmes délices 
+Rössle Sauerkraut 	45.6 	13 	Ernst Handel 
+Rössle Sauerkraut 	45.6 	42 	Queen Cozinha 
+Rössle Sauerkraut 	45.6 	12 	Reggiani Caseifici 
+Rössle Sauerkraut 	45.6 	14 	Tortuga Restaurante 
+Rössle Sauerkraut 	45.6 	30 	Blondel père et fils 
+Rössle Sauerkraut 	45.6 	6 	Santé Gourmet 
+Thüringer Rostbratwurst 	123.79 	4 	Pericles Comidas clásicas 
+Thüringer Rostbratwurst 	123.79 	24 	Save-a-lot Markets 
+Thüringer Rostbratwurst 	123.79 	21 	Eastern Connection 
+Thüringer Rostbratwurst 	123.79 	14 	Ernst Handel 
+Thüringer Rostbratwurst 	123.79 	15 	Comércio Mineiro 
+Thüringer Rostbratwurst 	123.79 	35 	Blondel père et fils 
+Thüringer Rostbratwurst 	123.79 	25 	Old World Delicatessen 
+Thüringer Rostbratwurst 	123.79 	20 	Split Rail Beer & Ale 
+Thüringer Rostbratwurst 	123.79 	10 	GROSELLA-Restaurante 
+Nord-Ost Matjeshering 	25.89 	15 	Old World Delicatessen 
+Nord-Ost Matjeshering 	25.89 	8 	Split Rail Beer & Ale 
+Nord-Ost Matjeshering 	25.89 	35 	Folk och fä HB 
+Nord-Ost Matjeshering 	25.89 	10 	Romero y tomillo 
+Nord-Ost Matjeshering 	25.89 	18 	Hungry Owl All-Night Grocers 
+Nord-Ost Matjeshering 	25.89 	18 	Rattlesnake Canyon Grocery 
+Nord-Ost Matjeshering 	25.89 	60 	Ernst Handel 
+Nord-Ost Matjeshering 	25.89 	6 	Romero y tomillo 
+Gorgonzola Telino 	12.5 	32 	Save-a-lot Markets 
+Gorgonzola Telino 	12.5 	60 	Ernst Handel 
+Gorgonzola Telino 	12.5 	20 	Hanari Carnes 
+Gorgonzola Telino 	12.5 	14 	Gourmet Lanchonetes 
+Gorgonzola Telino 	12.5 	30 	Wolski 
+Gorgonzola Telino 	12.5 	4 	Königlich Essen 
+Gorgonzola Telino 	12.5 	20 	Drachenblut Delikatessend 
+Gorgonzola Telino 	12.5 	15 	QUICK-Stop 
+Gorgonzola Telino 	12.5 	42 	Mère Paillarde 
+Gorgonzola Telino 	12.5 	25 	Hungry Owl All-Night Grocers 
+Gorgonzola Telino 	12.5 	70 	Seven Seas Imports 
+Gorgonzola Telino 	12.5 	30 	Die Wandernde Kuh 
+Gorgonzola Telino 	12.5 	40 	Rattlesnake Canyon Grocery 
+Gorgonzola Telino 	12.5 	56 	Frankenversand 
+Mascarpone Fabioli 	32 	6 	Ernst Handel 
+Mascarpone Fabioli 	32 	6 	Hungry Owl All-Night Grocers 
+Mascarpone Fabioli 	32 	40 	Rattlesnake Canyon Grocery 
+Geitost 	2.5 	20 	QUICK-Stop 
+Geitost 	2.5 	50 	Familia Arquibaldo 
+Geitost 	2.5 	49 	Bottom-Dollar Marketse 
+Geitost 	2.5 	60 	White Clover Markets 
+Geitost 	2.5 	20 	Hungry Coyote Import Store 
+Geitost 	2.5 	25 	Suprêmes délices 
+Geitost 	2.5 	8 	Simons bistro 
+Geitost 	2.5 	24 	Split Rail Beer & Ale 
+Geitost 	2.5 	60 	Ernst Handel 
+Sasquatch Ale 	14 	20 	Ricardo Adocicados 
+Sasquatch Ale 	14 	20 	Toms Spezialitäten 
+Sasquatch Ale 	14 	36 	Vaffeljernet 
+Sasquatch Ale 	14 	14 	Island Trading 
+Sasquatch Ale 	14 	10 	La maison d'Asie 
+Sasquatch Ale 	14 	10 	Familia Arquibaldo 
+Steeleye Stout 	18 	10 	Island Trading 
+Steeleye Stout 	18 	100 	QUICK-Stop 
+Steeleye Stout 	18 	40 	Ernst Handel 
+Steeleye Stout 	18 	4 	Romero y tomillo 
+Steeleye Stout 	18 	30 	Save-a-lot Markets 
+Steeleye Stout 	18 	20 	Que Delícia 
+Steeleye Stout 	18 	60 	Mère Paillarde 
+Steeleye Stout 	18 	70 	Save-a-lot Markets 
+Steeleye Stout 	18 	35 	Eastern Connection 
+Inlagd Sill 	19 	40 	Frankenversand 
+Inlagd Sill 	19 	20 	Frankenversand 
+Inlagd Sill 	19 	6 	La maison d'Asie 
+Inlagd Sill 	19 	20 	La maison d'Asie 
+Inlagd Sill 	19 	12 	QUICK-Stop 
+Inlagd Sill 	19 	40 	Hungry Owl All-Night Grocers 
+Inlagd Sill 	19 	30 	Wartian Herkku 
+Inlagd Sill 	19 	25 	Richter Supermarkt 
+Inlagd Sill 	19 	5 	Queen Cozinha 
+Gravad lax 	26 	1 	Centro comercial Moctezuma 
+Gravad lax 	26 	28 	Frankenversand 
+Gravad lax 	26 	10 	Folies gourmandes 
+Côte de Blaye 	263.5 	40 	Queen Cozinha 
+Côte de Blaye 	263.5 	20 	Split Rail Beer & Ale 
+Côte de Blaye 	263.5 	10 	Blondel père et fils 
+Côte de Blaye 	263.5 	49 	Mère Paillarde 
+Côte de Blaye 	263.5 	50 	Piccolo und mehr 
+Côte de Blaye 	263.5 	50 	Simons bistro 
+Côte de Blaye 	263.5 	20 	Ernst Handel 
+Chartreuse verte 	18 	20 	Seven Seas Imports 
+Chartreuse verte 	18 	60 	Blondel père et fils 
+Chartreuse verte 	18 	6 	HILARIÓN-Abastos 
+Chartreuse verte 	18 	50 	Familia Arquibaldo 
+Chartreuse verte 	18 	54 	QUICK-Stop 
+Chartreuse verte 	18 	30 	Old World Delicatessen 
+Chartreuse verte 	18 	4 	Königlich Essen 
+Chartreuse verte 	18 	42 	Hanari Carnes 
+Boston Crab Meat 	18.4 	60 	QUICK-Stop 
+Boston Crab Meat 	18.4 	40 	QUICK-Stop 
+Boston Crab Meat 	18.4 	10 	Die Wandernde Kuh 
+Boston Crab Meat 	18.4 	40 	Godos Cocina Típica 
+Boston Crab Meat 	18.4 	50 	Frankenversand 
+Boston Crab Meat 	18.4 	2 	Queen Cozinha 
+Boston Crab Meat 	18.4 	4 	Familia Arquibaldo 
+Boston Crab Meat 	18.4 	50 	Bottom-Dollar Marketse 
+Jack's New England Clam Chowder 	9.65 	16 	Old World Delicatessen 
+Jack's New England Clam Chowder 	9.65 	25 	Folk och fä HB 
+Jack's New England Clam Chowder 	9.65 	12 	Bon app' 
+Jack's New England Clam Chowder 	9.65 	10 	Hanari Carnes 
+Jack's New England Clam Chowder 	9.65 	8 	Que Delícia 
+Jack's New England Clam Chowder 	9.65 	25 	Bottom-Dollar Marketse 
+Jack's New England Clam Chowder 	9.65 	10 	Rattlesnake Canyon Grocery 
+Jack's New England Clam Chowder 	9.65 	13 	Ernst Handel 
+Jack's New England Clam Chowder 	9.65 	20 	Island Trading 
+Singaporean Hokkien Fried Mee 	14 	40 	Magazzini Alimentari Riuniti 
+Singaporean Hokkien Fried Mee 	14 	10 	Wilman Kala 
+Singaporean Hokkien Fried Mee 	14 	6 	Du monde entier 
+Singaporean Hokkien Fried Mee 	14 	2 	Hungry Owl All-Night Grocers 
+Singaporean Hokkien Fried Mee 	14 	10 	Mère Paillarde 
+Singaporean Hokkien Fried Mee 	14 	9 	QUICK-Stop 
+Ipoh Coffee 	46 	20 	Hungry Owl All-Night Grocers 
+Ipoh Coffee 	46 	24 	Die Wandernde Kuh 
+Ipoh Coffee 	46 	25 	Wartian Herkku 
+Ipoh Coffee 	46 	40 	Bon app' 
+Ipoh Coffee 	46 	12 	Suprêmes délices 
+Ipoh Coffee 	46 	15 	Rattlesnake Canyon Grocery 
+Gula Malacca 	19.45 	16 	Berglunds snabbköp 
+Gula Malacca 	19.45 	24 	Que Delícia 
+Gula Malacca 	19.45 	21 	Lehmanns Marktstand 
+Gula Malacca 	19.45 	40 	Bottom-Dollar Marketse 
+Gula Malacca 	19.45 	77 	Ernst Handel 
+Røgede sild 	9.5 	15 	Seven Seas Imports 
+Spegesild 	12 	45 	Ernst Handel 
+Spegesild 	12 	30 	Save-a-lot Markets 
+Spegesild 	12 	2 	Simons bistro 
+Spegesild 	12 	20 	Reggiani Caseifici 
+Spegesild 	12 	15 	Ricardo Adocicados 
+Spegesild 	12 	5 	Blondel père et fils 
+Spegesild 	12 	28 	HILARIÓN-Abastos 
+Zaanse koeken 	9.5 	55 	QUICK-Stop 
+Zaanse koeken 	9.5 	16 	Mère Paillarde 
+Zaanse koeken 	9.5 	30 	Bottom-Dollar Marketse 
+Chocolade 	12.75 	70 	Ernst Handel 
+Maxilaku 	20 	15 	Comércio Mineiro 
+Maxilaku 	20 	35 	Blondel père et fils 
+Maxilaku 	20 	30 	Magazzini Alimentari Riuniti 
+Maxilaku 	20 	30 	Tortuga Restaurante 
+Maxilaku 	20 	40 	Hanari Carnes 
+Maxilaku 	20 	30 	Eastern Connection 
+Valkoinen suklaa 	16.25 	15 	Around the Horn 
+Valkoinen suklaa 	16.25 	15 	La maison d'Asie 
+Valkoinen suklaa 	16.25 	40 	Hungry Owl All-Night Grocers 
+Manjimup Dried Apples 	53 	48 	Hungry Owl All-Night Grocers 
+Manjimup Dried Apples 	53 	35 	Hanari Carnes 
+Manjimup Dried Apples 	53 	40 	Tradição Hipermercados 
+Manjimup Dried Apples 	53 	20 	Bon app' 
+Manjimup Dried Apples 	53 	2 	Que Delícia 
+Manjimup Dried Apples 	53 	18 	Princesa Isabel Vinhoss 
+Filo Mix 	7 	20 	Pericles Comidas clásicas 
+Filo Mix 	7 	20 	Seven Seas Imports 
+Filo Mix 	7 	8 	Victuailles en stock 
+Perth Pasties 	32.8 	40 	Seven Seas Imports 
+Perth Pasties 	32.8 	10 	Wartian Herkku 
+Perth Pasties 	32.8 	36 	QUICK-Stop 
+Perth Pasties 	32.8 	20 	Die Wandernde Kuh 
+Perth Pasties 	32.8 	15 	Wellington Importadora 
+Perth Pasties 	32.8 	20 	Hungry Owl All-Night Grocers 
+Perth Pasties 	32.8 	15 	Que Delícia 
+Perth Pasties 	32.8 	10 	Romero y tomillo 
+Perth Pasties 	32.8 	15 	Wartian Herkku 
+Perth Pasties 	32.8 	70 	HILARIÓN-Abastos 
+Tourtière 	7.45 	18 	Vaffeljernet 
+Tourtière 	7.45 	6 	Folies gourmandes 
+Tourtière 	7.45 	24 	Bon app' 
+Tourtière 	7.45 	80 	Ernst Handel 
+Tourtière 	7.45 	10 	Reggiani Caseifici 
+Tourtière 	7.45 	20 	Furia Bacalhau e Frutos do Mar 
+Tourtière 	7.45 	28 	Blondel père et fils 
+Tourtière 	7.45 	24 	Split Rail Beer & Ale 
+Tourtière 	7.45 	40 	Split Rail Beer & Ale 
+Tourtière 	7.45 	15 	Bon app' 
+Tourtière 	7.45 	10 	Hungry Coyote Import Store 
+Tourtière 	7.45 	5 	Romero y tomillo 
+Pâté chinois 	24 	20 	Berglunds snabbköp 
+Pâté chinois 	24 	21 	Chop-suey Chinese 
+Pâté chinois 	24 	40 	Frankenversand 
+Pâté chinois 	24 	15 	Bottom-Dollar Marketse 
+Pâté chinois 	24 	10 	La maison d'Asie 
+Pâté chinois 	24 	120 	Save-a-lot Markets 
+Pâté chinois 	24 	12 	Die Wandernde Kuh 
+Gnocchi di nonna Alice 	38 	70 	Rattlesnake Canyon Grocery 
+Gnocchi di nonna Alice 	38 	40 	Blondel père et fils 
+Gnocchi di nonna Alice 	38 	4 	Vins et alcools Chevalier 
+Gnocchi di nonna Alice 	38 	12 	Split Rail Beer & Ale 
+Gnocchi di nonna Alice 	38 	28 	Princesa Isabel Vinhoss 
+Gnocchi di nonna Alice 	38 	2 	Rattlesnake Canyon Grocery 
+Gnocchi di nonna Alice 	38 	5 	Galería del gastrónomo 
+Gnocchi di nonna Alice 	38 	20 	Rattlesnake Canyon Grocery 
+Gnocchi di nonna Alice 	38 	20 	Die Wandernde Kuh 
+Gnocchi di nonna Alice 	38 	30 	Ernst Handel 
+Gnocchi di nonna Alice 	38 	20 	Around the Horn 
+Gnocchi di nonna Alice 	38 	18 	Split Rail Beer & Ale 
+Ravioli Angelo 	19.5 	20 	Wartian Herkku 
+Ravioli Angelo 	19.5 	15 	Toms Spezialitäten 
+Ravioli Angelo 	19.5 	25 	Around the Horn 
+Ravioli Angelo 	19.5 	15 	Victuailles en stock 
+Ravioli Angelo 	19.5 	50 	Old World Delicatessen 
+Ravioli Angelo 	19.5 	2 	Romero y tomillo 
+Ravioli Angelo 	19.5 	25 	Ernst Handel 
+Ravioli Angelo 	19.5 	16 	Bólido Comidas preparadas 
+Escargots de Bourgogne 	13.25 	15 	Wolski 
+Escargots de Bourgogne 	13.25 	80 	Hungry Owl All-Night Grocers 
+Escargots de Bourgogne 	13.25 	30 	Folk och fä HB 
+Escargots de Bourgogne 	13.25 	30 	Rattlesnake Canyon Grocery 
+Raclette Courdavault 	55 	12 	Santé Gourmet 
+Raclette Courdavault 	55 	30 	Hungry Owl All-Night Grocers 
+Raclette Courdavault 	55 	9 	Simons bistro 
+Raclette Courdavault 	55 	40 	Save-a-lot Markets 
+Raclette Courdavault 	55 	6 	Magazzini Alimentari Riuniti 
+Raclette Courdavault 	55 	30 	Richter Supermarkt 
+Raclette Courdavault 	55 	16 	Bottom-Dollar Marketse 
+Raclette Courdavault 	55 	70 	Frankenversand 
+Raclette Courdavault 	55 	15 	Berglunds snabbköp 
+Raclette Courdavault 	55 	9 	Furia Bacalhau e Frutos do Mar 
+Raclette Courdavault 	55 	10 	Tortuga Restaurante 
+Raclette Courdavault 	55 	20 	Gourmet Lanchonetes 
+Raclette Courdavault 	55 	9 	Bottom-Dollar Marketse 
+Raclette Courdavault 	55 	70 	Ernst Handel 
+Camembert Pierrot 	34 	70 	Queen Cozinha 
+Camembert Pierrot 	34 	55 	QUICK-Stop 
+Camembert Pierrot 	34 	80 	Seven Seas Imports 
+Camembert Pierrot 	34 	21 	Rattlesnake Canyon Grocery 
+Camembert Pierrot 	34 	40 	Suprêmes délices 
+Camembert Pierrot 	34 	8 	LILA-Supermercado 
+Camembert Pierrot 	34 	35 	LILA-Supermercado 
+Camembert Pierrot 	34 	60 	Richter Supermarkt 
+Camembert Pierrot 	34 	20 	Lehmanns Marktstand 
+Camembert Pierrot 	34 	20 	Split Rail Beer & Ale 
+Camembert Pierrot 	34 	15 	Berglunds snabbköp 
+Camembert Pierrot 	34 	6 	Hungry Owl All-Night Grocers 
+Sirop d'érable 	28.5 	16 	QUICK-Stop 
+Sirop d'érable 	28.5 	90 	Save-a-lot Markets 
+Tarte au sucre 	49.3 	40 	La maison d'Asie 
+Tarte au sucre 	49.3 	12 	Morgenstern Gesundkost 
+Tarte au sucre 	49.3 	40 	QUICK-Stop 
+Tarte au sucre 	49.3 	35 	Folies gourmandes 
+Tarte au sucre 	49.3 	10 	Hungry Coyote Import Store 
+Tarte au sucre 	49.3 	25 	Rattlesnake Canyon Grocery 
+Tarte au sucre 	49.3 	15 	Hungry Owl All-Night Grocers 
+Tarte au sucre 	49.3 	70 	Rattlesnake Canyon Grocery 
+Tarte au sucre 	49.3 	28 	Mère Paillarde 
+Tarte au sucre 	49.3 	10 	Lonesome Pine Restaurant 
+Tarte au sucre 	49.3 	5 	The Big Cheese 
+Tarte au sucre 	49.3 	20 	Bottom-Dollar Marketse 
+Tarte au sucre 	49.3 	15 	Old World Delicatessen 
+Vegie-spread 	43.9 	16 	Que Delícia 
+Vegie-spread 	43.9 	80 	Save-a-lot Markets 
+Vegie-spread 	43.9 	35 	Hungry Owl All-Night Grocers 
+Vegie-spread 	43.9 	65 	Ernst Handel 
+Vegie-spread 	43.9 	8 	Berglunds snabbköp 
+Vegie-spread 	43.9 	5 	Tortuga Restaurante 
+Wimmers gute Semmelknödel 	33.25 	30 	Chop-suey Chinese 
+Wimmers gute Semmelknödel 	33.25 	35 	Ernst Handel 
+Wimmers gute Semmelknödel 	33.25 	7 	Galería del gastrónomo 
+Wimmers gute Semmelknödel 	33.25 	30 	Blondel père et fils 
+Wimmers gute Semmelknödel 	33.25 	9 	B's Beverages 
+Wimmers gute Semmelknödel 	33.25 	50 	Lehmanns Marktstand 
+Wimmers gute Semmelknödel 	33.25 	6 	Mère Paillarde 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	15 	Vaffeljernet 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	5 	Galería del gastrónomo 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	15 	Hanari Carnes 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	10 	Ernst Handel 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	20 	Victuailles en stock 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	20 	Rattlesnake Canyon Grocery 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	20 	Que Delícia 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	30 	Godos Cocina Típica 
+Louisiana Fiery Hot Pepper Sauce 	21.05 	40 	Furia Bacalhau e Frutos do Mar 
+Louisiana Hot Spiced Okra 	17 	30 	Magazzini Alimentari Riuniti 
+Louisiana Hot Spiced Okra 	17 	60 	Ernst Handel 
+Laughing Lumberjack Lager 	14 	5 	Lehmanns Marktstand 
+Scottish Longbreads 	12.5 	3 	Reggiani Caseifici 
+Scottish Longbreads 	12.5 	20 	Magazzini Alimentari Riuniti 
+Scottish Longbreads 	12.5 	36 	Simons bistro 
+Scottish Longbreads 	12.5 	15 	Godos Cocina Típica 
+Scottish Longbreads 	12.5 	4 	Lehmanns Marktstand 
+Scottish Longbreads 	12.5 	60 	Vaffeljernet 
+Scottish Longbreads 	12.5 	3 	Lonesome Pine Restaurant 
+Scottish Longbreads 	12.5 	10 	Furia Bacalhau e Frutos do Mar 
+Scottish Longbreads 	12.5 	8 	Split Rail Beer & Ale 
+Scottish Longbreads 	12.5 	10 	Victuailles en stock 
+Scottish Longbreads 	12.5 	30 	Mère Paillarde 
+Gudbrandsdalsost 	36 	20 	Richter Supermarkt 
+Gudbrandsdalsost 	36 	20 	Die Wandernde Kuh 
+Gudbrandsdalsost 	36 	15 	Ottilies Käseladen 
+Gudbrandsdalsost 	36 	18 	La maison d'Asie 
+Gudbrandsdalsost 	36 	30 	Eastern Connection 
+Gudbrandsdalsost 	36 	15 	LILA-Supermercado 
+Gudbrandsdalsost 	36 	7 	Du monde entier 
+Gudbrandsdalsost 	36 	8 	HILARIÓN-Abastos 
+Gudbrandsdalsost 	36 	1 	Ana Trujillo Emparedados y helados 
+Gudbrandsdalsost 	36 	50 	Piccolo und mehr 
+Outback Lager 	15 	21 	Old World Delicatessen 
+Outback Lager 	15 	20 	Ricardo Adocicados 
+Outback Lager 	15 	20 	Blondel père et fils 
+Outback Lager 	15 	30 	Bottom-Dollar Marketse 
+Outback Lager 	15 	8 	Wellington Importadora 
+Outback Lager 	15 	30 	Island Trading 
+Outback Lager 	15 	30 	Hungry Owl All-Night Grocers 
+Outback Lager 	15 	5 	Ana Trujillo Emparedados y helados 
+Fløtemysost 	21.5 	15 	Santé Gourmet 
+Fløtemysost 	21.5 	60 	Frankenversand 
+Fløtemysost 	21.5 	15 	Ottilies Käseladen 
+Fløtemysost 	21.5 	60 	Rattlesnake Canyon Grocery 
+Fløtemysost 	21.5 	30 	Wartian Herkku 
+Fløtemysost 	21.5 	6 	Folk och fä HB 
+Fløtemysost 	21.5 	3 	Hungry Owl All-Night Grocers 
+Fløtemysost 	21.5 	40 	Wartian Herkku 
+Fløtemysost 	21.5 	2 	Tortuga Restaurante 
+Fløtemysost 	21.5 	50 	Hungry Owl All-Night Grocers 
+Fløtemysost 	21.5 	20 	Vins et alcools Chevalier 
+Fløtemysost 	21.5 	5 	Eastern Connection 
+Fløtemysost 	21.5 	30 	Vaffeljernet 
+Mozzarella di Giovanni 	34.8 	7 	Vins et alcools Chevalier 
+Mozzarella di Giovanni 	34.8 	25 	LILA-Supermercado 
+Mozzarella di Giovanni 	34.8 	40 	Königlich Essen 
+Mozzarella di Giovanni 	34.8 	24 	Ernst Handel 
+Mozzarella di Giovanni 	34.8 	42 	Queen Cozinha 
+Mozzarella di Giovanni 	34.8 	10 	Consolidated Holdings 
+Mozzarella di Giovanni 	34.8 	25 	Frankenversand 
+Mozzarella di Giovanni 	34.8 	24 	Rattlesnake Canyon Grocery 
+Mozzarella di Giovanni 	34.8 	20 	Blondel père et fils 
+Mozzarella di Giovanni 	34.8 	3 	LILA-Supermercado 
+Mozzarella di Giovanni 	34.8 	21 	Frankenversand 
+Mozzarella di Giovanni 	34.8 	4 	GROSELLA-Restaurante 
+Mozzarella di Giovanni 	34.8 	5 	Wilman Kala 
+Mozzarella di Giovanni 	34.8 	20 	White Clover Markets 
+Röd Kaviar 	15 	25 	Berglunds snabbköp 
+Röd Kaviar 	15 	20 	Wellington Importadora 
+Longlife Tofu 	10 	14 	LILA-Supermercado 
+Longlife Tofu 	10 	21 	Chop-suey Chinese 
+Longlife Tofu 	10 	20 	Chop-suey Chinese 
+Longlife Tofu 	10 	36 	Ernst Handel 
+Longlife Tofu 	10 	50 	Ernst Handel 
+Longlife Tofu 	10 	15 	QUICK-Stop 
+Longlife Tofu 	10 	30 	Mère Paillarde 
+Rhönbräu Klosterbier 	7.75 	6 	Rattlesnake Canyon Grocery 
+Rhönbräu Klosterbier 	7.75 	6 	Tortuga Restaurante 
+Rhönbräu Klosterbier 	7.75 	30 	Berglunds snabbköp 
+Rhönbräu Klosterbier 	7.75 	6 	Familia Arquibaldo 
+Rhönbräu Klosterbier 	7.75 	50 	Bólido Comidas preparadas 
+Rhönbräu Klosterbier 	7.75 	24 	Blondel père et fils 
+Rhönbräu Klosterbier 	7.75 	12 	Drachenblut Delikatessend 
+Rhönbräu Klosterbier 	7.75 	10 	Die Wandernde Kuh 
+Lakkalikööri 	18 	12 	Drachenblut Delikatessend 
+Lakkalikööri 	18 	18 	Folk och fä HB 
+Lakkalikööri 	18 	15 	Frankenversand 
+Lakkalikööri 	18 	15 	Lehmanns Marktstand 
+Lakkalikööri 	18 	35 	Vaffeljernet 
+Lakkalikööri 	18 	20 	La maison d'Asie 
+Lakkalikööri 	18 	33 	QUICK-Stop 
+Lakkalikööri 	18 	6 	Island Trading 
+Lakkalikööri 	18 	30 	Tortuga Restaurante 
+Lakkalikööri 	18 	14 	La maison d'Asie 
+Original Frankfurter grüne Soße 	13 	10 	Que Delícia 
+Original Frankfurter grüne Soße 	13 	7 	Vaffeljernet 
+Original Frankfurter grüne Soße 	13 	5 	Galería del gastrónomo 
+Original Frankfurter grüne Soße 	13 	10 	Comércio Mineiro 
+Original Frankfurter grüne Soße 	13 	14 	Vaffeljernet 
+Original Frankfurter grüne Soße 	13 	12 	Wellington Importadora 
+Original Frankfurter grüne Soße 	13 	15 	HILARIÓN-Abastos 
+Original Frankfurter grüne Soße 	13 	35 	Simons bistro 
