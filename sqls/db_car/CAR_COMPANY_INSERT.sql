@@ -22,4 +22,5 @@ INSERT INTO `CAR_OPTION` (OPTION_PK, CAR_FK, COMPANY_FK, OPTION_NAME) VALUES
 ('OPT007', 'CAR004', 'C004', '후방감지센서'),
 ('OPT008', 'CAR004', 'C004', '헤드업디스플레이'),
 ('OPT009', 'CAR005', 'C005', '전자식 메모리 시트'),
-('OPT010', 'CAR005', 'C005', '어댑티브 크루즈컨트롤');
+('OPT010', 'CAR005', 'C005', '어댑티브');
+('OPT011', 'CAR005', 'C005', '크루즈컨트롤');
